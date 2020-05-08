@@ -73,7 +73,7 @@
     "kurento-client-core": "git+https://github.com/Kurento/kurento-client-core-js.git",
     "kurento-client-elements": "git+https://github.com/Kurento/kurento-client-elements-js.git",
     "kurento-client-filters": "git+https://github.com/Kurento/kurento-client-filters-js.git",
-    "kurento-jsonrpc": "git+https://github.com/Kurento/kurento-jsonrpc-js.git",
+    "kurento-jsonrpc": "git+https://github.com/epiphanysxp/kurento-jsonrpc-js.git#fix-transportmessage-decode",
     "promisecallback": "0.0.4",
     "reconnect-ws": "git+https://github.com/epiphanysxp/reconnect-ws.git#fix-dependencies",
     "minimist": "^1.2.0"
